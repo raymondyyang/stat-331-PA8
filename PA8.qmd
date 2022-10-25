@@ -1,6 +1,6 @@
 ---
 title: "Person 1"
-author: "Scott B"
+author: "Scott Brydln, Austin Liu, Raymond Yang"
 format: html
 editor: visual
 ---
