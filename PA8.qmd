@@ -1,6 +1,6 @@
 ---
 title: "Person 1"
-author: "Scott B"
+author: "Scott, Austin, Raymond"
 format: html
 editor: visual
 ---
